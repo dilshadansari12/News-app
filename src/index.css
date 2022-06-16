@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Roboto:wght@300;400&display=swap');
+
+
+/* font-family: 'Open Sans', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.card_c_text{
+
+       font-size: 16px;
+       font-family:"Roboto";
+      color: rgba(68, 85, 68, 0.836);
+      padding-top: 10px;
+}
+
+.card_c_title{
+    font-size: 16px;
+    font-family:"Open Sans";
+    line-height: 22px;
+    font-weight: 800;
+}
+
+.extradate{
+    font-size: 13px;
+    color: rgba(102, 102, 102, 0.979);
+    font-weight: 600;
+}
+
